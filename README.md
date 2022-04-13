@@ -2,7 +2,6 @@
 
 Without ejecting, we're able to connect an Expo app to MetaMask via WalletConnect.
 
-<img src="./Demo.gif" width="250" />
 
 ## What do these changes consist of?
 
