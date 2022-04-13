@@ -22,13 +22,15 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "buildNumber": "1.0.0"
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.jongan69.expoapp"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
     },
     "android": {
-      "versionCode": 1
+      "versionCode": 1,
+      "package": "com.jongan69.expoapp"
     }
   }
 }
