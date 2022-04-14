@@ -1,9 +1,8 @@
-# Collectifi NFT Wallet & Marketplace
+# Full Stack Expo App
 
 Without ejecting, we're able to connect an Expo app to MetaMask via WalletConnect.
 
-
-## What do these changes consist of?
+## What new
 
 - Polyfilling NodeJS libraries within [metro.config.js](./metro.config.js)
 - Creating and updating [global.ts](./global.ts)
@@ -13,3 +12,6 @@ Without ejecting, we're able to connect an Expo app to MetaMask via WalletConnec
 - yarn install
 - expo start
 - scan QR code
+
+# Goals:
+Be able to make authenticated API calls via an authenticated wallet
